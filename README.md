@@ -4,7 +4,7 @@ A responsive portfolio website showcasing my experience, projects, and skills as
 
 ## 🌐 Live Site
 
-**[View Live Portfolio](https://nikki-vadi-portfolio.vercel.app)** 
+**[View Live Portfolio](https://nikki-vadi.vercel.app/)** 
 
 ## Features
 

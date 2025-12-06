@@ -94,7 +94,6 @@ export default function Portfolio() {
 
   return (
     <div className="min-h-screen bg-amber-50 relative overflow-hidden">
-      <DecorativeBackground />
       <Navbar 
         mobileMenuOpen={mobileMenuOpen}
         setMobileMenuOpen={setMobileMenuOpen}
