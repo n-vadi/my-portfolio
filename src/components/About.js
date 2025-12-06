@@ -1,3 +1,5 @@
+import profileImage from '../assets/profile.jpg';
+
 export default function About() {
   return (
     <section id="about" className="relative py-32 px-4 sm:px-6 lg:px-8">
@@ -7,7 +9,7 @@ export default function About() {
           <div className="flex flex-col md:flex-row items-center md:items-start gap-8 md:gap-12">
             <div className="flex-shrink-0">
               <img 
-                src="/profile.jpg" 
+                src={profileImage} 
                 alt="Nikki" 
                 className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover shadow-lg border-4 border-teal-100"
               />
